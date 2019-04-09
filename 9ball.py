@@ -1,6 +1,9 @@
 # Import the modules
 import sys
 import random
+import os
+
+os.system('pip install -r requirements.txt')
 
 ans = True
 
